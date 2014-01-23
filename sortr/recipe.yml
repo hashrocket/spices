@@ -1,0 +1,4 @@
+sortr:
+- source: 'https://raw.github.com/camerond/jquery-sortr/master/source/javascripts/jquery.sortr.js.coffee'
+  rails: 'lib/assets/javascripts/jquery.sortr.js.coffee'
+

@@ -1,0 +1,15 @@
+Stagehand.js
+
+Adds:
+
+  - lib/assets/javascripts/stagehand.coffee
+  - lib/assets/stylesheets/stagehand.sass
+  - lib/assets/images/stagehand_icon.png
+
+Documentation:
+
+  http://camerond.github.io/stagehand/
+
+To initialize:
+
+  $(document.body).stagehand();

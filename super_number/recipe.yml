@@ -1,0 +1,4 @@
+supernumber:
+- source: "https://raw.github.com/shaneriley/super_number/master/source/javascripts/jquery.super_number.js"
+  rails: 'lib/assets/javascripts/jquery.super_number.js'
+

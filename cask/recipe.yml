@@ -1,0 +1,5 @@
+cask:
+- source: 'https://gist.github.com/camerond/7681450/raw/whitespace-reset.sass'
+  rails:  'lib/assets/stylesheets/_reset.sass'
+- source: 'https://gist.github.com/camerond/8030122/raw/cask.sass'
+  rails:  'lib/assets/stylesheets/cask.sass'

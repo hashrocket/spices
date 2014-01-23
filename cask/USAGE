@@ -1,0 +1,14 @@
+Cask for Bourbon
+===
+
+Adds:
+
+  - gem requirement for Bourbon
+  - lib/assets/stylesheets/reset.sass
+  - lib/assets/stylesheets/cask.sass
+
+Don't forget to put this in your SASS:
+
+  @include 'reset'
+  @include 'bourbon'
+  @include 'cask'

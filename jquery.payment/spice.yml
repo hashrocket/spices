@@ -1,0 +1,3 @@
+jquery.payment:
+- source: 'https://raw2.github.com/stripe/jquery.payment/master/lib/jquery.payment.js'
+  rails:  'vendor/assets/javascripts/jquery.payment.js'

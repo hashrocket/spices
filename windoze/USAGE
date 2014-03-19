@@ -1,0 +1,11 @@
+jQuery.windoze
+===
+
+Adds:
+
+  - lib/assets/javascripts/jquery.windoze.js.coffee
+  - lib/assets/stylesheets/jquery.windoze.css.sass
+
+Documentation & source:
+
+  http://camerond.github.io/windoze

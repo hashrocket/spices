@@ -1,0 +1,5 @@
+windoze:
+- source: 'https://raw.github.com/camerond/windoze/master/source/javascripts/jquery.windoze.js.coffee'
+  rails:  'lib/assets/javascripts/jquery.windoze.js.coffee'
+- source: 'https://raw.github.com/camerond/windoze/master/source/stylesheets/jquery.windoze.css.sass'
+  rails:  'lib/assets/stylesheets/jquery.windoze.css.sass'

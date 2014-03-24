@@ -9,6 +9,6 @@ Adds:
 
 Don't forget to put this in your SASS:
 
-  @include 'reset'
-  @include 'bourbon'
-  @include 'cask'
+  @import 'reset'
+  @import 'bourbon'
+  @import 'cask'

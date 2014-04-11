@@ -3,11 +3,14 @@ Cask for Bourbon
 
 Adds:
 
-  - gem requirement for Bourbon
   - lib/assets/stylesheets/reset.sass
   - lib/assets/stylesheets/cask.sass
 
-Don't forget to put this in your SASS:
+Make sure to add this to your Gemfile:
+
+  gem 'bourbon'
+
+Also, put this in your SASS:
 
   @import 'reset'
   @import 'bourbon'

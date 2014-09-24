@@ -3,6 +3,4 @@ stagehand:
   rails:  'lib/assets/javascripts/stagehand.js.coffee'
 - source: 'https://raw.github.com/camerond/stagehand/master/source/stylesheets/stagehand.sass'
   rails:  'lib/assets/stylesheets/stagehand.sass'
-- source: 'https://raw.github.com/camerond/stagehand/master/source/images/stagehand_icon.png'
-  rails:  'lib/assets/images/stagehand_icon.png'
 

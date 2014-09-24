@@ -3,6 +3,4 @@ minical:
   rails:  'lib/assets/javascripts/jquery.minical.js.coffee'
 - source: 'https://raw.github.com/camerond/jquery-minical/master/source/stylesheets/jquery.minical.css.sass'
   rails:  'lib/assets/stylesheets/jquery.minical.css.sass'
-- source: 'https://raw.github.com/camerond/jquery-minical/master/source/images/jquery_minical_icons.png'
-  rails:  'lib/assets/images/jquery_minical_icons.png'
 

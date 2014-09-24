@@ -1,0 +1,3 @@
+normalize:
+- source: "https://raw.githubusercontent.com/necolas/normalize.css/master/normalize.css"
+  rails: "vendor/assets/stylesheets/normalize.scss"

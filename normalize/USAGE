@@ -1,0 +1,7 @@
+CSS Normalize
+
+Adds:
+
+  - vendor/assets/stylesheets/normalize.scss
+
+`@include 'normalize'` in your Sass file.
